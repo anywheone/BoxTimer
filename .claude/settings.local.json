@@ -7,7 +7,9 @@
       "Bash(git rm:*)",
       "Bash(git commit:*)",
       "Bash(gh repo create:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(git remote add:*)",
+      "Bash(PORT=3100 npm start)"
     ],
     "deny": [],
     "ask": []
